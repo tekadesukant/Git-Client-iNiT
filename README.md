@@ -2,48 +2,32 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5vaHRnaGpjbXl0M2V2ZGo4Y3E3ZDlua2tmaDZidHVyNTdyazY0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 </div>
-<h1 id="header" align="center">
-   &nbsp;&nbsp;<i></i><p><span class="bold">Welcome aboard! Explore our relm&nbsp; </i>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/>
-  </span</p>
-</h1>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tekade-sukant-3343bb252">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/muschifresser/">
-    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://github.com/tekadesukant">
-    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=Github&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+<br>
+<br>
 
----
+### Documentation Contents
 
-
-# **Git Setup Wizard**
-
-Welcome to the Git Setup Wizard repository! This repository features an automated script designed to simplify the installation and configuration of your Git client, allowing you to get started with coding quickly and efficiently.
-
-## 📋 **Table of Contents**
-
-1. [Features](#features)
-2. [Installation Instructions](#installation-instructions)
-3. [Documentation](#documentation)
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation Instructions](#installation-instructions)
+4. [Documentation](#documentation)
    - [What is Git?](#what-is-git)
    - [Why Use This Script?](#why-use-this-script)
    - [Script Details](#script-details)
    - [Troubleshooting](#troubleshooting)
-4. [Feedback & Support](#feedback--support)
+5. [Support](#support)
 
-## 🌟 **Features**
+# **Introduction**
+
+Welcome to the Git Installer repository! This repository features an automated script designed to simplify the installation and configuration of your Git client, allowing you to get started with coding quickly and efficiently.
+
+##  **Features**
 
 - **Automated Installation**: Easily set up Git with a single script.
 - **Effortless Configuration**: Pre-configured settings to get Git ready for use immediately.
 - **Quick Start**: Begin coding without unnecessary delays.
 
-## 🔧 **Installation Instructions**
+##  **Installation Instructions**
 
 Follow these steps to use the `InstallGit.bat` script:
 
@@ -61,7 +45,7 @@ Follow these steps to use the `InstallGit.bat` script:
    .\InstallGit.bat
    ```
 
-## 📚 **Documentation**
+##  **Documentation**
 
 ### **What is Git?**
 
@@ -84,8 +68,7 @@ The `InstallGit.bat` script performs the following actions:
 - **Script Execution Issues**: Ensure that PowerShell is running with administrative privileges.
 - **Installation Problems**: Verify that your system meets the requirements for installing Git and that there are no connectivity issues during the download.
 
-## 📣 **Feedback & Support**
+##  **Support**
 
-For any issues or feedback, please feel free to reach out through the [GitHub Issues page](https://github.com/tekadesukant/Git-Client-iNiT/issues). Your input is valuable for improving this tool.
+For any issues or feedback, please feel free to reach out through the [GitHub Issues page](https://github.com/tekadesukant/Git-Client-iNiT/issues). 
 
-Happy coding! 💻🚀
